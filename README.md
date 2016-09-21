@@ -1,9 +1,9 @@
-CONTENTS OF THIS REPOSITORY
-#-Project
-#-Project Description
-#-Prerequisites
-#-Installing
-#-Troubleshooting
+#CONTENTS OF THIS REPOSITORY
+- Project
+- Project Description
+- Prerequisites
+- Installing
+- Troubleshooting
 ---------------------------------------------
 #Project: 
 Apointment Book Scheduler
