@@ -4,7 +4,7 @@
 - Prerequisites
 - Installing
 - Troubleshooting
----------------------------------------------
+
 #Project: 
 Apointment Book Scheduler
 #Project Description: 
@@ -20,12 +20,14 @@ This appointment scheduler will allow users to read appointments in from a .dat 
     It will then advance all the appointments in the array that number of days.
   - viewAllTodaysAppointments() - Passed the array and the size of the array. The function will ask the user for the current date and time for a date object.  
     It will then display the times for all the appointments for today.  The times should be displayed as the 12 hour clock time.
-#Prerequisites: Download all repository contents:
+#Prerequisites: 
+Download all repository contents:
   1) myTime.h
   2) myTime.cpp
   3) myDate.h
   4) appointmentApp.cpp
   5) date.dat
+
   Download a free C++ IDE:
   - NetBeans
   - Eclipse 
