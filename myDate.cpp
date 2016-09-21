@@ -1,10 +1,6 @@
 //Author: Patrick Gagliano
 //File: myDate.cpp
 //Creation Date: February 10, 2015
-//Due Date: March 5 Noon
-//Course:  CSC 136
-//Professor: Prof. Day
-//Assignment Number: #2
 //Purpose:  Allows a user to keep track of appointments by using the myDate class
 #include "myDate.h"
 #include "myTime.h"
