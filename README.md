@@ -29,17 +29,18 @@ Download all repository contents:
   - myDate.h
   - appointmentApp.cpp
   - date.dat
+  
 Download a free C++ IDE:
   - NetBeans
   - Eclipse 
   - Code:Blocks
   - Coding Ground (Online Compiler)
-  - 
+
 #Installing:
   - Download one of the programs as listed above. 
   - Download C++ repository source codes. 
   - Import repository folder.
   - Compile and run C++ program. 
-  - 
+  
 #Troubleshooting:
   - IDE's will include debugging tools
