@@ -1,9 +1,5 @@
 //Author: Patrick Gagliano
 //Creation Date: February 10, 2015
-//Due Date: March 5 Noon
-//Course:  CSC 136
-//Professor: Prof. Day
-//Assignment Number: #2
 //Description:  Defintions for the time methods
 
 #include "myTime.h"
