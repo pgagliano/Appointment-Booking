@@ -1,10 +1,6 @@
 //Author: Patrick Gagliano
 //File: myTime.h
 //Creation Date: February 10, 2015
-//Due Date: March 5 Noon
-//Course:  CSC 136
-//Professor: Prof. Day
-//Assignment Number: #2
 //Description:  Declares a class to store hours and minutes for a 24 hour clock
 
 #include <iostream>
