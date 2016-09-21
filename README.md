@@ -1,8 +1,14 @@
 CONTENTS OF THIS REPOSITORY
+#-Project
+#-Project Description
+#-Prerequisites
+#-Installing
+#-Troubleshooting
 ---------------------------------------------
-#Project: Apointment Book Scheduler
-#Project Description: This appointment scheduler will allow users to read appointments in from a .dat file (date.dat)
-and perform the following actions: 
+#Project: 
+Apointment Book Scheduler
+#Project Description: 
+This appointment scheduler will allow users to read appointments in from a .dat file (date.dat) and perform the following actions: 
   - addAppointment() - Passed the array of dates and the size as a reference parameter.
     The function will ask the user for the time and day of the appointment.  
     It will use these values to set the date.  It will add the date to the next available spot in the array and increment the size.
